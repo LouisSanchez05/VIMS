@@ -1,0 +1,10 @@
+{
+  "sample": "sample_004",
+  "model": "gpt-6-astra",
+  "effort": "low",
+  "runtime_seconds": 27.233,
+  "input_tokens": 998,
+  "output_tokens": 1359,
+  "total_tokens": 2357,
+  "segments": 8
+}

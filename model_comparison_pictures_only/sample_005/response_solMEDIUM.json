@@ -1,0 +1,290 @@
+{
+  "scene_type": "Tidal creek with marsh islands and developed residential banks",
+  "shorelines": [
+    {
+      "segment_id": 1,
+      "points": [
+        {
+          "x": 271,
+          "y": 0
+        },
+        {
+          "x": 253,
+          "y": 72
+        },
+        {
+          "x": 238,
+          "y": 164
+        },
+        {
+          "x": 240,
+          "y": 253
+        },
+        {
+          "x": 217,
+          "y": 337
+        },
+        {
+          "x": 189,
+          "y": 395
+        },
+        {
+          "x": 194,
+          "y": 424
+        },
+        {
+          "x": 254,
+          "y": 440
+        },
+        {
+          "x": 329,
+          "y": 448
+        },
+        {
+          "x": 405,
+          "y": 443
+        },
+        {
+          "x": 425,
+          "y": 424
+        },
+        {
+          "x": 410,
+          "y": 361
+        },
+        {
+          "x": 383,
+          "y": 284
+        },
+        {
+          "x": 362,
+          "y": 204
+        },
+        {
+          "x": 348,
+          "y": 125
+        },
+        {
+          "x": 347,
+          "y": 63
+        },
+        {
+          "x": 365,
+          "y": 0
+        }
+      ]
+    },
+    {
+      "segment_id": 2,
+      "points": [
+        {
+          "x": 520,
+          "y": 0
+        },
+        {
+          "x": 505,
+          "y": 46
+        },
+        {
+          "x": 478,
+          "y": 81
+        },
+        {
+          "x": 454,
+          "y": 121
+        },
+        {
+          "x": 451,
+          "y": 161
+        },
+        {
+          "x": 469,
+          "y": 201
+        },
+        {
+          "x": 508,
+          "y": 233
+        }
+      ]
+    },
+    {
+      "segment_id": 3,
+      "points": [
+        {
+          "x": 0,
+          "y": 52
+        },
+        {
+          "x": 39,
+          "y": 63
+        }
+      ]
+    },
+    {
+      "segment_id": 4,
+      "points": [
+        {
+          "x": 0,
+          "y": 105
+        },
+        {
+          "x": 26,
+          "y": 116
+        },
+        {
+          "x": 38,
+          "y": 151
+        },
+        {
+          "x": 40,
+          "y": 180
+        },
+        {
+          "x": 25,
+          "y": 201
+        },
+        {
+          "x": 0,
+          "y": 207
+        }
+      ]
+    },
+    {
+      "segment_id": 5,
+      "points": [
+        {
+          "x": 0,
+          "y": 315
+        },
+        {
+          "x": 26,
+          "y": 326
+        },
+        {
+          "x": 38,
+          "y": 363
+        },
+        {
+          "x": 34,
+          "y": 397
+        },
+        {
+          "x": 16,
+          "y": 419
+        },
+        {
+          "x": 0,
+          "y": 422
+        }
+      ]
+    },
+    {
+      "segment_id": 6,
+      "points": [
+        {
+          "x": 0,
+          "y": 564
+        },
+        {
+          "x": 23,
+          "y": 558
+        },
+        {
+          "x": 38,
+          "y": 531
+        }
+      ]
+    },
+    {
+      "segment_id": 7,
+      "points": [
+        {
+          "x": 154,
+          "y": 1000
+        },
+        {
+          "x": 159,
+          "y": 945
+        },
+        {
+          "x": 174,
+          "y": 891
+        },
+        {
+          "x": 182,
+          "y": 831
+        },
+        {
+          "x": 181,
+          "y": 767
+        },
+        {
+          "x": 169,
+          "y": 706
+        },
+        {
+          "x": 171,
+          "y": 634
+        },
+        {
+          "x": 186,
+          "y": 590
+        },
+        {
+          "x": 220,
+          "y": 557
+        },
+        {
+          "x": 255,
+          "y": 540
+        },
+        {
+          "x": 310,
+          "y": 534
+        },
+        {
+          "x": 372,
+          "y": 544
+        },
+        {
+          "x": 436,
+          "y": 559
+        },
+        {
+          "x": 497,
+          "y": 579
+        },
+        {
+          "x": 552,
+          "y": 603
+        },
+        {
+          "x": 586,
+          "y": 626
+        }
+      ]
+    },
+    {
+      "segment_id": 8,
+      "points": [
+        {
+          "x": 686,
+          "y": 681
+        },
+        {
+          "x": 720,
+          "y": 706
+        },
+        {
+          "x": 753,
+          "y": 737
+        },
+        {
+          "x": 771,
+          "y": 766
+        }
+      ]
+    }
+  ],
+  "uncertainty_notes": "Visible shoreline is interrupted in several places by docks, boats, heavy tree shadows, and narrow waterfront structures; segments stop at those obstructions. Short left-edge marsh boundaries are included only where the water-land contact is distinct. The lower-right canal banks are especially obscured and were not extended through ambiguous developed areas."
+}

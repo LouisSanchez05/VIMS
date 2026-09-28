@@ -1,0 +1,10 @@
+{
+  "sample": "sample_005",
+  "model": "gpt-5.6-sol",
+  "effort": "low",
+  "runtime_seconds": 19.548,
+  "input_tokens": 998,
+  "output_tokens": 1076,
+  "total_tokens": 2074,
+  "segments": 8
+}
